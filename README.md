@@ -1,4 +1,4 @@
-# Generic Join Optimizer 运行说明
+# Top Down Optimizer for WCOJ
 
 ## Dependency
 
